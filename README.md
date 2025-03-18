@@ -1,7 +1,6 @@
-## Install Dependencies
-Run the following command to install the required packages:
+# Project Setup
+
+## Install Dependencies  
+Run the following command to install the required packages:  
+```bash
 pip install pdfplumber pandas openpyxl
-
-## Run the Script
-python prog.py
-
